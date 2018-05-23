@@ -1,0 +1,4 @@
+#Sun Apr 15 08:40:24 CST 2018
+base.0=/Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/build/intermediates/transforms/dexMerger/debug/37
+path.0=classes.dex
+renamed.0=classes.dex

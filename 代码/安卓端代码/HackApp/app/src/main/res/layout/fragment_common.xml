@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:card_view="http://schemas.android.com/tools"
+    xmlns:fresco="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    card_view:cardBackgroundColor="@color/white"
+    fresco:cardCornerRadius="8dp"
+    fresco:cardElevation="4dp">
+
+    <!--DragLayout要求所有子View的layout_gravity都居中显示-->
+
+    <com.njut.igeek.hackapp.View.DragLayout
+        android:id="@+id/drag_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:bototmExtraIndicatorHeight="@dimen/card_extra_height"
+        app:bottomDragVisibleHeight="@dimen/card_bottom_info_height">
+
+        <!--1. 这个是底部的view-->
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="320dp"
+            android:layout_gravity="center_vertical"
+            android:alpha="0"
+            android:background="@drawable/white_back">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/card_bottom_info_height"
+                android:layout_gravity="bottom"
+                android:gravity="center_vertical"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginTop="10dp"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/pic_title"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:textColor="#333"
+                        android:textSize="15sp" />
+
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/pic_desc"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="10dp"
+                    android:ellipsize="end"
+                    android:maxLines="1"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:textColor="@color/textcolor2"
+                    android:textSize="15sp" />
+
+
+            </LinearLayout>
+
+        </FrameLayout>
+
+        <!--2. 頂層可滑动的View-->
+
+        <com.njut.igeek.hackapp.View.AspectRatioCardView
+            android:id="@+id/aspectCardView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_marginBottom="@dimen/card_extra_height"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            app:cardCornerRadius="5dp"
+            app:cardElevation="6dp"
+            app:cardMaxElevation="6dp">
+
+            <lib.lhh.fiv.library.FrescoImageView
+                android:id="@+id/image"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:scaleType="fitXY"
+                fresco:actualImageScaleType="fitXY"
+                fresco:backgroundImage="@color/white"
+                fresco:fadeDuration="300"
+                fresco:failureImage="@drawable/fao"
+                fresco:placeholderImage="@drawable/fap"
+                fresco:placeholderImageScaleType="centerInside"
+                fresco:progressBarAutoRotateInterval="3000"
+                fresco:progressBarImage="@drawable/loading"
+                fresco:progressBarImageScaleType="centerInside"
+                fresco:retryImage="@drawable/retry"
+                fresco:retryImageScaleType="centerInside" />
+
+
+        </com.njut.igeek.hackapp.View.AspectRatioCardView>
+
+    </com.njut.igeek.hackapp.View.DragLayout>
+
+</FrameLayout>

@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">HackApp</string>
+
+
+    <!-- hint -->
+    <string name="login_hint">请输入用户名</string>
+    <string name="passwd_hint">请输入密码</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="globleUserInfo">globleUserInfo</string>
+    <string name="globalUserInfoDetail">globleUserInfoDetail</string>
+
+    <string name="hottags">热门标签</string>
+    <string name="tag">打标签</string>
+    <string name="entry">立即体验</string>
+    <string name="regist">注册</string>
+    <string name="email">邮箱</string>
+    <string name="phone">请输入手机号</string>
+    <string name="verifycode">请输入验证码</string>
+    <string name="name">用户名</string>
+    <string name="passwd">请输入6-18位的密码</string>
+    <string name="mytags">我的标签</string>
+    <string name="error_gif">x or y bound size should be at least %1$dpx and file size should be no more than %2$sM</string>
+    <string name="complete">继续完善</string>
+    <string name="sendMessage">发送短信</string>
+    <string name="verifypasswd">请再次填写密码</string>
+    <string name="newpasswd">请输入6-18位新密码</string>
+    <string name="next_step">下一步</string>
+    <string name="app_protocol">《Spoteer使用条款》</string>
+    <string name="nickspce">昵     称</string>
+    <string name="emailspace">邮     箱</string>
+    <string name="interestSpace">兴     趣</string>
+    <string name="must">必     填        </string>
+    <string name="select">选     填        </string>
+
+
+    <!--verify evaluator-->
+    <string name="validation_field_email">电子邮箱</string>
+    <string name="validation_field_phone">手机号</string>
+    <string name="validation_field_name">姓名</string>
+    <string name="validation_field_password">密码</string>
+    <string name="validation_field_passwd">密码</string>
+    <string name="validation_field_verifypasswd">验证码</string>
+    <string name="validation_field_newpasswd">新密码</string>
+    <string name="validation_field_verifycode">密码</string>
+    <string name="changePass">确认修改</string>
+    <string name="aboutus_version">Spoteer V 1.0.0</string>
+    <string name="copyright">Copyright © 2017-2018 Spoteer All Rights Reservered</string>
+    <string name="protocol"><u>服务使用条款</u></string>
+    <string name="cab_title_x">选中 (%1$d) 张图片</string>
+    <string name="delImg">删除</string>
+
+
+    <!--JAVA-->
+    <string name="general_error">请求失败</string>
+    <string name="login_expire">登陆已过期,请重新登录</string>
+    <string name="no_authority">无权限做此操作</string>
+    <string name="account_delete">您的账户已被禁用或删除</string>
+    <string name="error_info">用户名或密码不正确</string>
+    <string name="no_internet">当前网络不可用</string>
+    <string name="request_fail">请求失败,请稍后重试</string>
+
+    <string name="layout_dialog_loading">正在加载</string>
+    <string name="delAll">全选</string>
+    <string name="exportImg">导出</string>
+</resources>

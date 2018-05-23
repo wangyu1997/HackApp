@@ -1,0 +1,184 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml:2:1-47:12
+MERGED from [com.yarolegovich:discrete-scrollview:1.0.3] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/discrete-scrollview-1.0.3.aar/f2868a7960d90a2ebc031f0bade198f4/AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e7224b473275f60e06f11885e25d8165/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/ff8580aaeafd14948c07dbcf2fb3c343/AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/0c05f68c6a62f6688bf4e1b9c48fdc49/AndroidManifest.xml:2:1-7:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/47300170ada87f565f1fef973938207b/AndroidManifest.xml:15:1-21:12
+MERGED from [jp.wasabeef:fresco-processors:2.1.0] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/fresco-processors-2.1.0.aar/98fcc669f56651052b7807ebe40c0f2f/AndroidManifest.xml:2:1-12:12
+MERGED from [com.facebook.fresco:fresco:1.9.0] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/fresco-1.9.0.aar/95cfa5c2247c50e7285f3874c6c3f77b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-gif:1.3.0] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/animated-gif-1.3.0.aar/856198d40ac1604994822340c1110f8b/AndroidManifest.xml:2:1-9:12
+MERGED from [homhomlin.lib:frescoimageview:1.3.0] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/frescoimageview-1.3.0.aar/48e86b6c6cfcdf7769c1a047d0ba65d9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/eb0a5d82363b713d78759b30e7087d75/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/916c5ff1d20b367eb4e4e01a0f9e2741/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/9b10330a8b5b0bce3527ec01d1bcd03c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/94c63f2d9d80ebb370a0487df8b06dbd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f7556895c39a9bb811c2d37492054684/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/0f050e104ff27a51bc689e2df01d441a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/c8c8b8952df8aa26f6b02d1372928868/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/eb10116511a51ed3d7e6f9b98700b230/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:animated-base:1.3.0] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/animated-base-1.3.0.aar/e89d04a0295a2825c302f0328b54a406/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.9.0] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/drawee-1.9.0.aar/ea3db8b33af07001b13dea2beeaa5d3c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.9.0.aar/69d8ed82dad22744e52db0d85e77bb61/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.9.0.aar/275c780b1c3d8c2ce02c0a23c50ec8b7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/fbcore-1.9.0.aar/c761c0db6ec98441fdabaa163102b31e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/abcef204473b0d8d54289589aab32f7d/AndroidManifest.xml:2:1-13:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/067cafd17a8aac5d3aa0e6abc7c48599/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/f0a25dde389e4ea3013c7bb879792d39/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3dcb539d31d70bb14cf1941b70f8cb57/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d6bbcd80335527064601996ee5a56026/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml:2:1-47:12
+		INJECTED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml:2:1-47:12
+		INJECTED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml:8:5-45:19
+MERGED from [com.yarolegovich:discrete-scrollview:1.0.3] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/discrete-scrollview-1.0.3.aar/f2868a7960d90a2ebc031f0bade198f4/AndroidManifest.xml:11:5-15:19
+MERGED from [com.yarolegovich:discrete-scrollview:1.0.3] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/discrete-scrollview-1.0.3.aar/f2868a7960d90a2ebc031f0bade198f4/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/ff8580aaeafd14948c07dbcf2fb3c343/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/ff8580aaeafd14948c07dbcf2fb3c343/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/abcef204473b0d8d54289589aab32f7d/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/abcef204473b0d8d54289589aab32f7d/AndroidManifest.xml:11:5-20
+	android:supportsRtl
+		ADDED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml:15:9-40
+	android:name
+		ADDED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml:9:9-38
+activity#com.njut.igeek.hackapp.UI.TestActivity
+ADDED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml:26:9-31:20
+	android:name
+		ADDED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml:26:19-50
+activity#com.njut.igeek.hackapp.UI.GameActivity
+ADDED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml:32:9-53
+	android:name
+		ADDED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml:32:19-50
+activity#com.njut.igeek.hackapp.UI.PicAcvitivity
+ADDED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml:33:9-38:20
+	android:name
+		ADDED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml:33:19-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml:34:13-37:29
+action#android.intent.action.MAIN
+ADDED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml:35:13-65
+	android:name
+		ADDED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml:35:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml:36:13-73
+	android:name
+		ADDED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml:36:23-70
+activity#com.njut.igeek.hackapp.UI.PicScrollActivity
+ADDED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml:39:9-41:51
+	android:launchMode
+		ADDED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml:41:13-48
+	android:name
+		ADDED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml:40:13-49
+activity#com.njut.igeek.hackapp.UI.TestResultActivity
+ADDED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml:42:9-68
+	android:name
+		ADDED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml:42:19-56
+activity#com.njut.igeek.hackapp.UI.PicDetailActivity
+ADDED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml:44:9-58
+	android:name
+		ADDED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml:44:19-55
+uses-sdk
+INJECTED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml
+MERGED from [com.yarolegovich:discrete-scrollview:1.0.3] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/discrete-scrollview-1.0.3.aar/f2868a7960d90a2ebc031f0bade198f4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.yarolegovich:discrete-scrollview:1.0.3] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/discrete-scrollview-1.0.3.aar/f2868a7960d90a2ebc031f0bade198f4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e7224b473275f60e06f11885e25d8165/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e7224b473275f60e06f11885e25d8165/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/ff8580aaeafd14948c07dbcf2fb3c343/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/ff8580aaeafd14948c07dbcf2fb3c343/AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/0c05f68c6a62f6688bf4e1b9c48fdc49/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/0c05f68c6a62f6688bf4e1b9c48fdc49/AndroidManifest.xml:5:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/47300170ada87f565f1fef973938207b/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/47300170ada87f565f1fef973938207b/AndroidManifest.xml:19:5-43
+MERGED from [jp.wasabeef:fresco-processors:2.1.0] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/fresco-processors-2.1.0.aar/98fcc669f56651052b7807ebe40c0f2f/AndroidManifest.xml:8:5-10:41
+MERGED from [jp.wasabeef:fresco-processors:2.1.0] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/fresco-processors-2.1.0.aar/98fcc669f56651052b7807ebe40c0f2f/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.fresco:fresco:1.9.0] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/fresco-1.9.0.aar/95cfa5c2247c50e7285f3874c6c3f77b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.9.0] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/fresco-1.9.0.aar/95cfa5c2247c50e7285f3874c6c3f77b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:1.3.0] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/animated-gif-1.3.0.aar/856198d40ac1604994822340c1110f8b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:1.3.0] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/animated-gif-1.3.0.aar/856198d40ac1604994822340c1110f8b/AndroidManifest.xml:5:5-7:41
+MERGED from [homhomlin.lib:frescoimageview:1.3.0] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/frescoimageview-1.3.0.aar/48e86b6c6cfcdf7769c1a047d0ba65d9/AndroidManifest.xml:7:5-43
+MERGED from [homhomlin.lib:frescoimageview:1.3.0] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/frescoimageview-1.3.0.aar/48e86b6c6cfcdf7769c1a047d0ba65d9/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/eb0a5d82363b713d78759b30e7087d75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/eb0a5d82363b713d78759b30e7087d75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/916c5ff1d20b367eb4e4e01a0f9e2741/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/916c5ff1d20b367eb4e4e01a0f9e2741/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/9b10330a8b5b0bce3527ec01d1bcd03c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/9b10330a8b5b0bce3527ec01d1bcd03c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/94c63f2d9d80ebb370a0487df8b06dbd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/94c63f2d9d80ebb370a0487df8b06dbd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f7556895c39a9bb811c2d37492054684/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f7556895c39a9bb811c2d37492054684/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/0f050e104ff27a51bc689e2df01d441a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/0f050e104ff27a51bc689e2df01d441a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/c8c8b8952df8aa26f6b02d1372928868/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/c8c8b8952df8aa26f6b02d1372928868/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/eb10116511a51ed3d7e6f9b98700b230/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/eb10116511a51ed3d7e6f9b98700b230/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:animated-base:1.3.0] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/animated-base-1.3.0.aar/e89d04a0295a2825c302f0328b54a406/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:1.3.0] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/animated-base-1.3.0.aar/e89d04a0295a2825c302f0328b54a406/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.9.0] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/drawee-1.9.0.aar/ea3db8b33af07001b13dea2beeaa5d3c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.9.0] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/drawee-1.9.0.aar/ea3db8b33af07001b13dea2beeaa5d3c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.9.0.aar/69d8ed82dad22744e52db0d85e77bb61/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.9.0.aar/69d8ed82dad22744e52db0d85e77bb61/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.9.0.aar/275c780b1c3d8c2ce02c0a23c50ec8b7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.9.0.aar/275c780b1c3d8c2ce02c0a23c50ec8b7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/fbcore-1.9.0.aar/c761c0db6ec98441fdabaa163102b31e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/fbcore-1.9.0.aar/c761c0db6ec98441fdabaa163102b31e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/abcef204473b0d8d54289589aab32f7d/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/abcef204473b0d8d54289589aab32f7d/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/067cafd17a8aac5d3aa0e6abc7c48599/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/067cafd17a8aac5d3aa0e6abc7c48599/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/f0a25dde389e4ea3013c7bb879792d39/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/f0a25dde389e4ea3013c7bb879792d39/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3dcb539d31d70bb14cf1941b70f8cb57/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3dcb539d31d70bb14cf1941b70f8cb57/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d6bbcd80335527064601996ee5a56026/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/wangyu/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/d6bbcd80335527064601996ee5a56026/AndroidManifest.xml:20:5-44
+INJECTED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/wangyu/Desktop/2018HACK 南京作品提交_01_Illusions/代码/安卓端代码/HackApp/app/src/main/AndroidManifest.xml
